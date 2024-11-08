@@ -11,6 +11,13 @@ If you've encountered the "This copy of the macOS High Sierra application is dam
    date 052321432018
    ```
 
+for El Capitan
+
+```bash
+   date 052321432024
+   ```
+
+
 This command can help resolve the issue. If you face any difficulties or have questions, feel free to reach out for assistance.
 
 ## Contributing
